@@ -1325,3 +1325,9 @@ video {
 		line-height: 2.5rem;
 	}
 }
+@media (min-width: 1536px){
+	.\32xl\:py-72{
+		padding-top: 18rem;
+		padding-bottom: 18rem;
+	}
+}
